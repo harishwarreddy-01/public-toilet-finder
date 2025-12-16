@@ -58,11 +58,11 @@ cd public-toilet-finder
 npm install
 
 3️⃣ Run Development Server:
-npm run dev<img width="1280" height="731" alt="result" src="https://github.com/user-attachments/assets/5a38f817-4a96-4b5e-916e-6b8f91b28ab0" />
+npm run dev
 
 
 Open in browser:
 👉 http://localhost:5173/
 
-
+<img width="1280" height="731" alt="result" src="https://github.com/user-attachments/assets/5a38f817-4a96-4b5e-916e-6b8f91b28ab0" />
 
